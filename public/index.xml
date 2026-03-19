@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 11:36:40 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 12:12:20 +0530</lastBuildDate>
     <atom:link href="https://github.com/khushi-apu-blog/Khushii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://github.com/khushi-apu-blog/Khushii/posts/markdown/</link>
+      <pubDate>Thu, 19 Mar 2026 12:12:20 +0530</pubDate>
+      <guid>https://github.com/khushi-apu-blog/Khushii/posts/markdown/</guid>
+      <description>&lt;h3 id=&#34;learning-the-language-of-information&#34;&gt; Learning the Language of Information&lt;/h3&gt;&#xA;&lt;h4 id=&#34;topic-markdown-latex-and-digital-documentation&#34;&gt;Topic: Markdown, LaTeX, and Digital Documentation&lt;/h4&gt;&#xA;&lt;p&gt;This was also very new topic for me Markdown, LaTeX, and Digital Documentation .I never have used tools like Markdown, Zettlr, or Hugo.  I&amp;rsquo;ve only used the Google Docs Microsoft Word Notepad Wordpad for typing. So in the beginning , in the lab I felt a little lost but later It becomes so interesting for typing in zettler using markdown.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Dikw</title>
       <link>https://github.com/khushi-apu-blog/Khushii/posts/dikw/</link>
@@ -20,7 +27,7 @@
       <link>https://github.com/khushi-apu-blog/Khushii/posts/khushi-blog/</link>
       <pubDate>Wed, 28 Jan 2026 12:35:06 +0530</pubDate>
       <guid>https://github.com/khushi-apu-blog/Khushii/posts/khushi-blog/</guid>
-      <description>&lt;h3 id=&#34;introduction&#34;&gt;INTRODUCTION&lt;/h3&gt;&#xA;&lt;p&gt;I am Khushi Kumari. I am from Jehanabad Bihar. I had PCMB in my class 12th Board. I got selected in  &lt;em&gt;&lt;strong&gt;Azim Premji University&lt;/strong&gt;&lt;/em&gt; in 2025 and here I am pursuing my BSc Hons Degree in &lt;em&gt;Information Sciences&lt;/em&gt;. I chose this degree Because I am interested in IT sector and further I also want to pursue masters in Computer Sciences.&lt;/p&gt;&#xA;&lt;h4 id=&#34;lab-1&#34;&gt;Lab 1&lt;/h4&gt;&#xA;&lt;p&gt;In Lab 1 I get to know about Wiki and markdown. Me with my group members  get the overview of Wiki and did the markdown tutorial. We also installed zettler and typed mathematical expressions in Zettler. khushi&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;INTRODUCTION&lt;/h3&gt;&#xA;&lt;p&gt;I am Khushi Kumari. I am from Jehanabad Bihar. I had PCMB in my class 12th Board. I got selected in  &lt;em&gt;&lt;strong&gt;Azim Premji University&lt;/strong&gt;&lt;/em&gt; in 2025 and here I am pursuing my BSc Hons Degree in &lt;em&gt;Information Sciences&lt;/em&gt;. I chose this degree Because I am interested in IT sector and further I also want to pursue masters in Computer Sciences.&lt;/p&gt;&#xA;&lt;h4 id=&#34;lab-1&#34;&gt;Lab 1&lt;/h4&gt;&#xA;&lt;p&gt;In Lab 1 I get to know about Wiki and markdown. Me with my group members  get the overview of Wiki and did the markdown tutorial. We also installed zettler and typed mathematical expressions in Zettler.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
