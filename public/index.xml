@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 12:12:20 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 20:26:13 +0530</lastBuildDate>
     <atom:link href="https://github.com/khushi-apu-blog/Khushii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Failurewiki</title>
+      <link>https://github.com/khushi-apu-blog/Khushii/posts/failurewiki/</link>
+      <pubDate>Sun, 05 Apr 2026 20:26:13 +0530</pubDate>
+      <guid>https://github.com/khushi-apu-blog/Khushii/posts/failurewiki/</guid>
+      <description>&lt;h3 id=&#34;understanding-failure-beyond-mistakes&#34;&gt;Understanding Failure Beyond Mistakes&lt;/h3&gt;&#xA;&lt;p&gt;The concept of failure was totally different for me but after  working on the Failure Wiki project , it was a very new thing to me because I never had learnt and thought about failure in such a way before . Usually,we always study about success stories but here we looked about failure and why this happened and what went wrong. Our group was group 5 and our case study was The Horizon Scandal. Initially I thought that it was just a technical failure but it is not.  As I explored more , I realized that it was not just a technical failure  but also a failure of management, accountability, and trust.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Markdown</title>
       <link>https://github.com/khushi-apu-blog/Khushii/posts/markdown/</link>
