@@ -11,7 +11,9 @@ The most shocking part was how people can easily trust technology over real huma
 
 From the book The Right Kind of Wrong our group was assigned with chapter 4 The Perfect Storm. After reading the Prologue and Chapter , it also changed my perspective on failure.This idea that not all failures are the same but some can be meant to be learned was a very interesting thing to me. Initially , I found the concepts slightly complicated , especially differentiating between “good” and “bad” failures. But after discussing with my groupmates and after relating this to case study I understood it better. I understood that not all failures are same , but some are necessary.
 
-• Complex failure involves multiple interconnected causes
-• Intelligent failure helps in learning and cause innovation
+- Complex failure involves multiple interconnected causes
+
+-  Intelligent failure helps in learning and cause innovation
+
 
 In conclusion , I think that this is a very effective way to understand this topic as Information Science students. This case hit us more than we expected as in the future we are going to spend our careers working with data systems, designing interfaces, and making decisions by digital outputs. And also I get to know that failure is not something that should be avoided, but something that should be analyzed and learned from carefully.
